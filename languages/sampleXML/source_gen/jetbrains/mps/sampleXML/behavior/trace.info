@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="Attribute_BehaviorDescriptor.java">
+      <unit at="15,0,27,0" name="jetbrains.mps.sampleXML.behavior.Attribute_BehaviorDescriptor" />
+    </file>
+    <file name="Document_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="jetbrains.mps.sampleXML.behavior.Document_BehaviorDescriptor" />
+    </file>
+    <file name="ElementPart_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="jetbrains.mps.sampleXML.behavior.ElementPart_BehaviorDescriptor" />
+    </file>
+    <file name="Element_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="jetbrains.mps.sampleXML.behavior.Element_BehaviorDescriptor" />
+    </file>
+    <file name="Text_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="jetbrains.mps.sampleXML.behavior.Text_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
