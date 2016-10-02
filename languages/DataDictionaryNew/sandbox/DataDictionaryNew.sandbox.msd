@@ -11,7 +11,7 @@
   </dependencies>
   <languageVersions>
     <language id="0e00ab26-049b-415a-83b6-dc09f3615dc4" fqName="DataDictionary" version="0" />
-    <language id="d9ed2390-ed93-4112-a500-557becc66fa7" fqName="DataDictonary.Java" version="0" />
+    <language id="d9ed2390-ed93-4112-a500-557becc66fa7" fqName="DataDictionary.Java" version="0" />
     <language id="f3061a53-9226-4cc5-a443-f952ceaf5816" fqName="jetbrains.mps.baseLanguage" version="4" />
     <language id="ed6d7656-532c-4bc2-81d1-af945aeb8280" fqName="jetbrains.mps.baseLanguage.blTypes" version="0" />
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" fqName="jetbrains.mps.lang.core" version="1" />

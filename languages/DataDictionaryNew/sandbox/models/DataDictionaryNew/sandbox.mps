@@ -4,8 +4,8 @@
   <languages>
     <use id="0e00ab26-049b-415a-83b6-dc09f3615dc4" name="DataDictionary" version="-1" />
     <use id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core" version="1" />
-    <use id="d9ed2390-ed93-4112-a500-557becc66fa7" name="DataDictonary.Java" version="0" />
-    <generationPart ref="d9ed2390-ed93-4112-a500-557becc66fa7(DataDictonary.Java)" />
+    <use id="d9ed2390-ed93-4112-a500-557becc66fa7" name="DataDictionary.Java" version="0" />
+    <generationPart ref="d9ed2390-ed93-4112-a500-557becc66fa7(DataDictionary.Java)" />
   </languages>
   <imports>
     <import index="guz3" ref="r:e7a2a44a-9b87-4538-a297-e5835f06563e(DataDictionaryNew.sandbox)" />
@@ -55,7 +55,7 @@
     </language>
   </registry>
   <node concept="3dC86E" id="7fO2C_I3vwV">
-    <property role="TrG5h" value="RecnikPodatakaTest2" />
+    <property role="TrG5h" value="RecnikPodatakaTest" />
     <node concept="3dC86J" id="7fO2C_I7gYr" role="3dC86w">
       <property role="TrG5h" value="Ucenik" />
       <node concept="3dCKnP" id="7fO2C_I7gYs" role="3dCKnH">
