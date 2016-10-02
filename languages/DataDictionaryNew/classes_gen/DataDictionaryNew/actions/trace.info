@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <root>
+    <file name="ActionAspectDescriptorImpl.java">
+      <unit at="13,0,28,0" name="DataDictionaryNew.actions.ActionAspectDescriptorImpl" />
+    </file>
+    <file name="QueriesGenerated.java">
+      <unit at="6,0,8,0" name="DataDictionaryNew.actions.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:d13347c2-ccf1-401a-8374-9c84313dbb54(DataDictionaryNew.actions)/6672132039943813005">
+    <file name="AggregationFactories.java">
+      <node id="6672132039943813634" at="15,91,16,391" concept="0" />
+      <node id="6672132039943815311" at="16,391,17,360" concept="0" />
+      <node id="6672132039943813006" at="15,0,19,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="6672132039943813006" at="15,91,17,360" />
+      <scope id="6672132039943813006" at="15,0,19,0">
+        <var name="enclosingNode" id="6672132039943813006" />
+        <var name="model" id="6672132039943813006" />
+        <var name="newNode" id="6672132039943813006" />
+        <var name="sampleNode" id="6672132039943813006" />
+      </scope>
+      <unit id="6672132039943813006" at="14,0,20,0" name="DataDictionaryNew.actions.AggregationFactories$NodeFactory_6672132039943813006" />
+      <unit id="6672132039943813005" at="13,0,21,0" name="DataDictionaryNew.actions.AggregationFactories" />
+    </file>
+  </root>
+</debug-info>
+

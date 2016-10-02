@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="AbstractField_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.AbstractField_BehaviorDescriptor" />
+    </file>
+    <file name="AggregationAsAField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.AggregationAsAField_BehaviorDescriptor" />
+    </file>
+    <file name="Aggregation_BehaviorDescriptor.java">
+      <unit at="13,0,25,0" name="DataDictionaryNew.behavior.Aggregation_BehaviorDescriptor" />
+    </file>
+    <file name="DataDictionary_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.DataDictionary_BehaviorDescriptor" />
+    </file>
+    <file name="Definitions_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DataDictionaryNew.behavior.Definitions_BehaviorDescriptor" />
+    </file>
+    <file name="Domain_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.Domain_BehaviorDescriptor" />
+    </file>
+    <file name="ExclusiveSpecializationAsField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.ExclusiveSpecializationAsField_BehaviorDescriptor" />
+    </file>
+    <file name="FieldDefinition_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DataDictionaryNew.behavior.FieldDefinition_BehaviorDescriptor" />
+    </file>
+    <file name="FieldRef_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DataDictionaryNew.behavior.FieldRef_BehaviorDescriptor" />
+    </file>
+    <file name="Field_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.Field_BehaviorDescriptor" />
+    </file>
+    <file name="NonExclusiveSpecializationAsField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.NonExclusiveSpecializationAsField_BehaviorDescriptor" />
+    </file>
+    <file name="PredefinedDomain_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.PredefinedDomain_BehaviorDescriptor" />
+    </file>
+    <file name="Restriction_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.Restriction_BehaviorDescriptor" />
+    </file>
+    <file name="SetOfComponentsAsAField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.SetOfComponentsAsAField_BehaviorDescriptor" />
+    </file>
+    <file name="SetStructureRef_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.SetStructureRef_BehaviorDescriptor" />
+    </file>
+    <file name="StructureAsAField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.StructureAsAField_BehaviorDescriptor" />
+    </file>
+    <file name="Structure_BehaviorDescriptor.java">
+      <unit at="12,0,15,0" name="DataDictionaryNew.behavior.Structure_BehaviorDescriptor" />
+    </file>
+    <file name="UserDefinedDomain_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.UserDefinedDomain_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="9,0,35,0" name="DataDictionary.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:c56e0493-2b34-4c5f-bafd-c4e137638e35(DataDictionary.constraints)/6433113229894115392">
+    <file name="FieldStructure_Constraints.java">
+      <node id="6433113229894115392" at="9,39,10,97" concept="11" />
+      <node id="6433113229894115392" at="9,0,12,0" concept="1" trace="FieldStructure_Constraints#()V" />
+      <scope id="6433113229894115392" at="9,39,10,97" />
+      <scope id="6433113229894115392" at="9,0,12,0" />
+      <unit id="6433113229894115392" at="8,0,13,0" name="DataDictionary.constraints.FieldStructure_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:c56e0493-2b34-4c5f-bafd-c4e137638e35(DataDictionary.constraints)/7077464071783904835">
+    <file name="StructureAsAField_Constraints.java">
+      <node id="7077464071783904835" at="31,42,32,97" concept="11" />
+      <node id="7077464071783904835" at="35,98,36,135" concept="6" />
+      <node id="7077464071783904835" at="39,44,40,20" concept="7" />
+      <node id="7077464071783904835" at="47,63,48,58" concept="7" />
+      <node id="6433113229895629921" at="52,13,53,37" concept="6" />
+      <node id="8355314794052428721" at="53,37,54,73" concept="2" />
+      <node id="6433113229895625403" at="54,73,55,241" concept="6" />
+      <node id="6433113229894694934" at="55,241,56,0" concept="9" />
+      <node id="7077464071783916834" at="58,52,59,347" concept="7" />
+      <node id="7077464071783916786" at="61,16,62,0" concept="9" />
+      <node id="7077464071783904835" at="67,7,68,22" concept="7" />
+      <node id="7077464071783904835" at="70,0,71,0" concept="10" trace="breakingNode_fnhhp6_a0a0a0a0a1a0b0a1a1" />
+      <node id="7077464071783904835" at="31,0,34,0" concept="1" trace="StructureAsAField_Constraints#()V" />
+      <node id="7077464071783916828" at="58,0,61,0" concept="5" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="7077464071783904835" at="38,0,42,0" concept="5" trace="hasOwnScopeProvider#()Z" />
+      <node id="7077464071783904835" at="46,0,50,0" concept="5" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="7077464071783916823" at="56,0,61,16" concept="7" />
+      <node id="7077464071783904835" at="51,122,63,13" concept="0" />
+      <node id="7077464071783904835" at="50,0,65,0" concept="5" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7077464071783904835" at="44,56,65,10" concept="7" />
+      <node id="7077464071783904835" at="42,0,67,0" concept="5" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7077464071783904835" at="36,135,67,7" concept="2" />
+      <node id="7077464071783904835" at="34,0,70,0" concept="5" trace="getNotDefaultSReferenceLinks#()Ljava/util/Map;" />
+      <scope id="7077464071783904835" at="31,42,32,97" />
+      <scope id="7077464071783904835" at="39,44,40,20" />
+      <scope id="7077464071783904835" at="47,63,48,58" />
+      <scope id="7077464071783916833" at="58,52,59,347" />
+      <scope id="7077464071783904835" at="31,0,34,0" />
+      <scope id="7077464071783916828" at="58,0,61,0">
+        <var name="child" id="7077464071783916831" />
+      </scope>
+      <scope id="7077464071783904835" at="38,0,42,0" />
+      <scope id="7077464071783904835" at="46,0,50,0" />
+      <scope id="7077464071783904846" at="52,13,62,0">
+        <var name="node_dd" id="6433113229895625406" />
+        <var name="structures" id="6433113229895629924" />
+      </scope>
+      <scope id="7077464071783904835" at="51,122,63,13" />
+      <scope id="7077464071783904835" at="50,0,65,0">
+        <var name="_context" id="7077464071783904835" />
+        <var name="operationContext" id="7077464071783904835" />
+      </scope>
+      <scope id="7077464071783904835" at="44,56,65,10" />
+      <scope id="7077464071783904835" at="42,0,67,0" />
+      <scope id="7077464071783904835" at="35,98,68,22">
+        <var name="references" id="7077464071783904835" />
+      </scope>
+      <scope id="7077464071783904835" at="34,0,70,0" />
+      <unit id="7077464071783916826" at="57,25,61,15" name="DataDictionary.constraints.StructureAsAField_Constraints$3" />
+      <unit id="7077464071783904835" at="45,19,65,9" name="DataDictionary.constraints.StructureAsAField_Constraints$2" />
+      <unit id="7077464071783904835" at="37,127,67,5" name="DataDictionary.constraints.StructureAsAField_Constraints$1" />
+      <unit id="7077464071783904835" at="30,0,72,0" name="DataDictionary.constraints.StructureAsAField_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:c56e0493-2b34-4c5f-bafd-c4e137638e35(DataDictionary.constraints)/7119496779597276111">
+    <file name="Field_Constraints.java">
+      <node id="7119496779597276111" at="9,30,10,97" concept="11" />
+      <node id="7119496779597276111" at="9,0,12,0" concept="1" trace="Field_Constraints#()V" />
+      <scope id="7119496779597276111" at="9,30,10,97" />
+      <scope id="7119496779597276111" at="9,0,12,0" />
+      <unit id="7119496779597276111" at="8,0,13,0" name="DataDictionary.constraints.Field_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:c56e0493-2b34-4c5f-bafd-c4e137638e35(DataDictionary.constraints)/7119496779597367829">
+    <file name="FieldDefinition_Constraints.java">
+      <node id="7119496779597367829" at="31,40,32,97" concept="11" />
+      <node id="7119496779597367829" at="35,98,36,135" concept="6" />
+      <node id="7119496779597367829" at="39,44,40,20" concept="7" />
+      <node id="7119496779597367829" at="47,63,48,58" concept="7" />
+      <node id="6433113229893406371" at="52,13,53,0" concept="9" />
+      <node id="6433113229895694337" at="53,0,54,216" concept="6" />
+      <node id="6433113229895695530" at="54,216,55,78" concept="6" />
+      <node id="6433113229895694727" at="55,78,56,90" concept="6" />
+      <node id="6433113229893274019" at="56,90,57,0" concept="9" />
+      <node id="6433113229895725970" at="59,17,60,49" concept="6" />
+      <node id="6433113229895728463" at="61,192,62,81" concept="2" />
+      <node id="6433113229895740556" at="65,17,66,60" concept="6" />
+      <node id="6433113229895804953" at="69,23,70,57" concept="6" />
+      <node id="6433113229895804958" at="71,198,72,87" concept="2" />
+      <node id="6433113229895740263" at="77,17,78,0" concept="9" />
+      <node id="6433113229895694035" at="79,15,80,0" concept="9" />
+      <node id="7119496779597415658" at="82,52,83,347" concept="7" />
+      <node id="7119496779597367829" at="90,7,91,22" concept="7" />
+      <node id="7119496779597367829" at="93,0,94,0" concept="10" trace="breakingNode_4qcb4i_a0a0a0a0a1a0b0a1a1" />
+      <node id="7119496779597367829" at="31,0,34,0" concept="1" trace="FieldDefinition_Constraints#()V" />
+      <node id="6433113229895725970" at="60,49,63,19" concept="4" />
+      <node id="6433113229895804953" at="70,57,73,25" concept="4" />
+      <node id="7119496779597415025" at="82,0,85,0" concept="5" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="7119496779597367829" at="38,0,42,0" concept="5" trace="hasOwnScopeProvider#()Z" />
+      <node id="7119496779597367829" at="46,0,50,0" concept="5" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="7119496779597414522" at="80,0,85,16" concept="7" />
+      <node id="6433113229895725970" at="58,209,64,17" concept="0" />
+      <node id="6433113229895804953" at="68,226,74,23" concept="0" />
+      <node id="6433113229895747365" at="67,221,75,21" concept="3" />
+      <node id="6433113229895740556" at="66,60,76,19" concept="4" />
+      <node id="6433113229895740556" at="64,17,77,17" concept="0" />
+      <node id="6433113229895700475" at="57,0,79,15" concept="3" />
+      <node id="7119496779597367829" at="51,122,86,13" concept="0" />
+      <node id="7119496779597367829" at="50,0,88,0" concept="5" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7119496779597367829" at="44,56,88,10" concept="7" />
+      <node id="7119496779597367829" at="42,0,90,0" concept="5" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7119496779597367829" at="36,135,90,7" concept="2" />
+      <node id="7119496779597367829" at="34,0,93,0" concept="5" trace="getNotDefaultSReferenceLinks#()Ljava/util/Map;" />
+      <scope id="7119496779597367829" at="31,40,32,97" />
+      <scope id="7119496779597367829" at="39,44,40,20" />
+      <scope id="7119496779597367829" at="47,63,48,58" />
+      <scope id="6433113229895725974" at="61,192,62,81" />
+      <scope id="6433113229895804957" at="71,198,72,87" />
+      <scope id="7119496779597415031" at="82,52,83,347" />
+      <scope id="7119496779597367829" at="31,0,34,0" />
+      <scope id="7119496779597415025" at="82,0,85,0">
+        <var name="child" id="7119496779597415029" />
+      </scope>
+      <scope id="7119496779597367829" at="38,0,42,0" />
+      <scope id="7119496779597367829" at="46,0,50,0" />
+      <scope id="6433113229895725970" at="59,17,63,19">
+        <var name="node_field" id="6433113229895725970" />
+      </scope>
+      <scope id="6433113229895804953" at="69,23,73,25">
+        <var name="node_field" id="6433113229895804953" />
+      </scope>
+      <scope id="6433113229895747367" at="68,226,74,23" />
+      <scope id="6433113229895740560" at="67,221,75,21" />
+      <scope id="6433113229895747365" at="67,221,75,21">
+        <var name="node_af" id="6433113229895747366" />
+      </scope>
+      <scope id="6433113229895740556" at="65,17,76,19">
+        <var name="node_inline_structure" id="6433113229895740556" />
+      </scope>
+      <scope id="6433113229895700477" at="58,209,78,0" />
+      <scope id="6433113229895700475" at="57,0,79,15">
+        <var name="field" id="6433113229895700478" />
+      </scope>
+      <scope id="7119496779597373331" at="52,13,85,16">
+        <var name="definition" id="6433113229895694338" />
+        <var name="possibleFields" id="6433113229895694728" />
+        <var name="structure" id="6433113229895695533" />
+      </scope>
+      <scope id="7119496779597367829" at="51,122,86,13" />
+      <scope id="7119496779597367829" at="50,0,88,0">
+        <var name="_context" id="7119496779597367829" />
+        <var name="operationContext" id="7119496779597367829" />
+      </scope>
+      <scope id="7119496779597367829" at="44,56,88,10" />
+      <scope id="7119496779597367829" at="42,0,90,0" />
+      <scope id="7119496779597367829" at="35,98,91,22">
+        <var name="references" id="7119496779597367829" />
+      </scope>
+      <scope id="7119496779597367829" at="34,0,93,0" />
+      <unit id="7119496779597415013" at="81,25,85,15" name="DataDictionary.constraints.FieldDefinition_Constraints$3" />
+      <unit id="7119496779597367829" at="45,19,88,9" name="DataDictionary.constraints.FieldDefinition_Constraints$2" />
+      <unit id="7119496779597367829" at="37,127,90,5" name="DataDictionary.constraints.FieldDefinition_Constraints$1" />
+      <unit id="7119496779597367829" at="30,0,95,0" name="DataDictionary.constraints.FieldDefinition_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:c56e0493-2b34-4c5f-bafd-c4e137638e35(DataDictionary.constraints)/7119496779597426731">
+    <file name="Definitions_Constraints.java">
+      <node id="7119496779597426731" at="9,36,10,97" concept="11" />
+      <node id="7119496779597426731" at="9,0,12,0" concept="1" trace="Definitions_Constraints#()V" />
+      <scope id="7119496779597426731" at="9,36,10,97" />
+      <scope id="7119496779597426731" at="9,0,12,0" />
+      <unit id="7119496779597426731" at="8,0,13,0" name="DataDictionary.constraints.Definitions_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:c56e0493-2b34-4c5f-bafd-c4e137638e35(DataDictionary.constraints)/7119496779597775585">
+    <file name="FieldRef_Constraints.java">
+      <node id="7119496779597775585" at="31,33,32,97" concept="11" />
+      <node id="7119496779597775585" at="35,98,36,135" concept="6" />
+      <node id="7119496779597775585" at="39,44,40,20" concept="7" />
+      <node id="7119496779597775585" at="47,63,48,58" concept="7" />
+      <node id="6433113229894698103" at="52,13,53,0" concept="9" />
+      <node id="6433113229894756130" at="53,0,54,0" concept="9" />
+      <node id="6433113229894698591" at="54,0,55,76" concept="6" />
+      <node id="6433113229894888417" at="55,76,56,215" concept="6" />
+      <node id="6433113229894756759" at="56,215,57,90" concept="6" />
+      <node id="6433113229894772064" at="59,17,60,49" concept="6" />
+      <node id="6433113229894760659" at="61,192,62,76" concept="2" />
+      <node id="6433113229895298528" at="62,76,63,0" concept="9" />
+      <node id="6433113229894940275" at="63,0,64,45" concept="8" />
+      <node id="6433113229894756444" at="67,15,68,0" concept="9" />
+      <node id="7119496779597779409" at="70,52,71,347" concept="7" />
+      <node id="7119496779597779364" at="73,16,74,0" concept="9" />
+      <node id="7119496779597775585" at="79,7,80,22" concept="7" />
+      <node id="7119496779597775585" at="82,0,83,0" concept="10" trace="breakingNode_6i6uxk_a0a0a0a0a1a0b0a1a1" />
+      <node id="7119496779597775585" at="31,0,34,0" concept="1" trace="FieldRef_Constraints#()V" />
+      <node id="7119496779597779403" at="70,0,73,0" concept="5" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="7119496779597775585" at="38,0,42,0" concept="5" trace="hasOwnScopeProvider#()Z" />
+      <node id="7119496779597775585" at="46,0,50,0" concept="5" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6433113229894772064" at="60,49,65,19" concept="4" />
+      <node id="7119496779597779398" at="68,0,73,16" concept="7" />
+      <node id="6433113229894772064" at="58,234,66,17" concept="0" />
+      <node id="6433113229894757136" at="57,90,67,15" concept="3" />
+      <node id="7119496779597775585" at="51,122,75,13" concept="0" />
+      <node id="7119496779597775585" at="50,0,77,0" concept="5" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7119496779597775585" at="44,56,77,10" concept="7" />
+      <node id="7119496779597775585" at="42,0,79,0" concept="5" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7119496779597775585" at="36,135,79,7" concept="2" />
+      <node id="7119496779597775585" at="34,0,82,0" concept="5" trace="getNotDefaultSReferenceLinks#()Ljava/util/Map;" />
+      <scope id="7119496779597775585" at="31,33,32,97" />
+      <scope id="7119496779597775585" at="39,44,40,20" />
+      <scope id="7119496779597775585" at="47,63,48,58" />
+      <scope id="7119496779597779408" at="70,52,71,347" />
+      <scope id="7119496779597775585" at="31,0,34,0" />
+      <scope id="6433113229894772071" at="61,192,64,45" />
+      <scope id="7119496779597779403" at="70,0,73,0">
+        <var name="child" id="7119496779597779406" />
+      </scope>
+      <scope id="7119496779597775585" at="38,0,42,0" />
+      <scope id="7119496779597775585" at="46,0,50,0" />
+      <scope id="6433113229894772064" at="59,17,65,19">
+        <var name="node_field" id="6433113229894772064" />
+      </scope>
+      <scope id="6433113229894757140" at="58,234,66,17" />
+      <scope id="6433113229894757136" at="57,90,67,15">
+        <var name="field" id="6433113229894757138" />
+      </scope>
+      <scope id="7119496779597775589" at="52,13,74,0">
+        <var name="node_struct" id="6433113229894888420" />
+        <var name="possibleFields" id="6433113229894756760" />
+        <var name="structureAsAField" id="6433113229894698594" />
+      </scope>
+      <scope id="7119496779597775585" at="51,122,75,13" />
+      <scope id="7119496779597775585" at="50,0,77,0">
+        <var name="_context" id="7119496779597775585" />
+        <var name="operationContext" id="7119496779597775585" />
+      </scope>
+      <scope id="7119496779597775585" at="44,56,77,10" />
+      <scope id="7119496779597775585" at="42,0,79,0" />
+      <scope id="7119496779597775585" at="35,98,80,22">
+        <var name="references" id="7119496779597775585" />
+      </scope>
+      <scope id="7119496779597775585" at="34,0,82,0" />
+      <unit id="7119496779597779401" at="69,25,73,15" name="DataDictionary.constraints.FieldRef_Constraints$3" />
+      <unit id="7119496779597775585" at="45,19,77,9" name="DataDictionary.constraints.FieldRef_Constraints$2" />
+      <unit id="7119496779597775585" at="37,127,79,5" name="DataDictionary.constraints.FieldRef_Constraints$1" />
+      <unit id="7119496779597775585" at="30,0,84,0" name="DataDictionary.constraints.FieldRef_Constraints" />
+    </file>
+  </root>
+</debug-info>
+
