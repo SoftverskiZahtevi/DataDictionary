@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/DatDictonary.Java/DatDictonary.Java.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/DataDictionaryNew/DataDictionary.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/sampleXML/jetbrains.mps.sampleXML.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/DataDictionaryNew.Java/DataDictionaryNew.Java.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/DataDictionaryNew.XML/DataDictionaryNew.XML.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
