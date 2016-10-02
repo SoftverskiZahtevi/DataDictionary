@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-dictnary>
+  <Ucesnik>
+    <Ime type="string" length="0" />
+    <ImeRoditelja type="string" length="0" />
+    <Prezime type="string" length="0" />
+  </Ucesnik>
+  <Mesto>
+    <MestoId type="integer" />
+    <Naziv type="string" length="0" />
+  </Mesto>
+</data-dictnary>
+

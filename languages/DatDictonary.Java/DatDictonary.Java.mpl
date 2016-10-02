@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="DataDictonary.Java" uuid="d9ed2390-ed93-4112-a500-557becc66fa7" languageVersion="0" moduleVersion="0">
+<language namespace="DataDictionary.Java" uuid="d9ed2390-ed93-4112-a500-557becc66fa7" languageVersion="0" moduleVersion="0">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot path="${module}/models" />
@@ -22,7 +22,7 @@
       </usedDevKits>
       <languageVersions>
         <language id="0e00ab26-049b-415a-83b6-dc09f3615dc4" fqName="DataDictionary" version="0" />
-        <language id="d9ed2390-ed93-4112-a500-557becc66fa7" fqName="DataDictonary.Java" version="-1" />
+        <language id="d9ed2390-ed93-4112-a500-557becc66fa7" fqName="DataDictionary.Java" version="-1" />
         <language id="f3061a53-9226-4cc5-a443-f952ceaf5816" fqName="jetbrains.mps.baseLanguage" version="4" />
         <language id="ed6d7656-532c-4bc2-81d1-af945aeb8280" fqName="jetbrains.mps.baseLanguage.blTypes" version="0" />
         <language id="fd392034-7849-419d-9071-12563d152375" fqName="jetbrains.mps.baseLanguage.closures" version="0" />
@@ -41,7 +41,7 @@
         <module reference="3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)" version="0" />
         <module reference="f3a2a736-5921-4069-b05c-971f1beec1ce(DatDictonary.Java#7010553778802364139)" version="0" />
         <module reference="0e00ab26-049b-415a-83b6-dc09f3615dc4(DataDictionary)" version="0" />
-        <module reference="d9ed2390-ed93-4112-a500-557becc66fa7(DataDictonary.Java)" version="0" />
+        <module reference="d9ed2390-ed93-4112-a500-557becc66fa7(DataDictionary.Java)" version="0" />
         <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
         <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
@@ -84,7 +84,7 @@
   <dependencyVersions>
     <module reference="3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)" version="0" />
     <module reference="0e00ab26-049b-415a-83b6-dc09f3615dc4(DataDictionary)" version="0" />
-    <module reference="d9ed2390-ed93-4112-a500-557becc66fa7(DataDictonary.Java)" version="0" />
+    <module reference="d9ed2390-ed93-4112-a500-557becc66fa7(DataDictionary.Java)" version="0" />
     <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
     <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
     <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
