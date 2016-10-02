@@ -1,3 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<debug-info />
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root nodeRef="r:e7a2a44a-9b87-4538-a297-e5835f06563e(DataDictionaryNew.sandbox)/8355314794052319291">
+    <file name="Adresa.java">
+      <node id="186827262370976581" at="7,0,8,0" concept="2" trace="ulica" />
+      <node id="186827262370976581" at="8,0,9,0" concept="2" trace="kucniBroj" />
+      <node id="186827262370976581" at="11,41,12,21" concept="1" />
+      <node id="186827262370976581" at="14,45,15,25" concept="1" />
+      <node id="186827262370976581" at="17,28,18,17" concept="4" />
+      <node id="186827262370976581" at="20,32,21,21" concept="4" />
+      <node id="186827262370976581" at="9,0,11,0" concept="0" trace="Adresa#()V" />
+      <node id="186827262370976581" at="11,0,14,0" concept="3" trace="setUlica#(Ljava/lang/String;)V" />
+      <node id="186827262370976581" at="14,0,17,0" concept="3" trace="setKucniBroj#(Ljava/lang/String;)V" />
+      <node id="186827262370976581" at="17,0,20,0" concept="3" trace="getUlica#()Ljava/lang/String;" />
+      <node id="186827262370976581" at="20,0,23,0" concept="3" trace="getKucniBroj#()Ljava/lang/String;" />
+      <scope id="186827262370976581" at="9,19,9,19" />
+      <scope id="186827262370976581" at="11,41,12,21" />
+      <scope id="186827262370976581" at="14,45,15,25" />
+      <scope id="186827262370976581" at="17,28,18,17" />
+      <scope id="186827262370976581" at="20,32,21,21" />
+      <scope id="186827262370976581" at="9,0,11,0" />
+      <scope id="186827262370976581" at="11,0,14,0">
+        <var name="newValue" id="186827262370976581" />
+      </scope>
+      <scope id="186827262370976581" at="14,0,17,0">
+        <var name="newValue" id="186827262370976581" />
+      </scope>
+      <scope id="186827262370976581" at="17,0,20,0" />
+      <scope id="186827262370976581" at="20,0,23,0" />
+      <unit id="186827262370976581" at="6,0,24,0" name="DataDictionaryNew.sandbox.Adresa" />
+    </file>
+    <file name="Mesto.java">
+      <node id="186827262370793042" at="7,0,8,0" concept="2" trace="mestoId" />
+      <node id="186827262370793042" at="8,0,9,0" concept="2" trace="nazivMesta" />
+      <node id="186827262370793042" at="11,40,12,23" concept="1" />
+      <node id="186827262370793042" at="14,46,15,26" concept="1" />
+      <node id="186827262370793042" at="17,27,18,19" concept="4" />
+      <node id="186827262370793042" at="20,33,21,22" concept="4" />
+      <node id="186827262370793042" at="9,0,11,0" concept="0" trace="Mesto#()V" />
+      <node id="186827262370793042" at="11,0,14,0" concept="3" trace="setMestoId#(I)V" />
+      <node id="186827262370793042" at="14,0,17,0" concept="3" trace="setNazivMesta#(Ljava/lang/String;)V" />
+      <node id="186827262370793042" at="17,0,20,0" concept="3" trace="getMestoId#()I" />
+      <node id="186827262370793042" at="20,0,23,0" concept="3" trace="getNazivMesta#()Ljava/lang/String;" />
+      <scope id="186827262370793042" at="9,18,9,18" />
+      <scope id="186827262370793042" at="11,40,12,23" />
+      <scope id="186827262370793042" at="14,46,15,26" />
+      <scope id="186827262370793042" at="17,27,18,19" />
+      <scope id="186827262370793042" at="20,33,21,22" />
+      <scope id="186827262370793042" at="9,0,11,0" />
+      <scope id="186827262370793042" at="11,0,14,0">
+        <var name="newValue" id="186827262370793042" />
+      </scope>
+      <scope id="186827262370793042" at="14,0,17,0">
+        <var name="newValue" id="186827262370793042" />
+      </scope>
+      <scope id="186827262370793042" at="17,0,20,0" />
+      <scope id="186827262370793042" at="20,0,23,0" />
+      <unit id="186827262370793042" at="6,0,24,0" name="DataDictionaryNew.sandbox.Mesto" />
+    </file>
+    <file name="Ucenik.java">
+      <node id="8355314794053308315" at="8,0,9,0" concept="2" trace="ime" />
+      <node id="8355314794053308315" at="9,0,10,0" concept="2" trace="prezime" />
+      <node id="8355314794053308315" at="10,0,11,0" concept="2" trace="godine" />
+      <node id="8355314794053308315" at="11,0,12,0" concept="2" trace="mestoField" />
+      <node id="8355314794053308315" at="12,0,13,0" concept="2" trace="adresaRef" />
+      <node id="8355314794053308315" at="13,0,14,0" concept="2" trace="mestoList" />
+      <node id="8355314794053308315" at="14,0,15,0" concept="2" trace="adresaField" />
+      <node id="8355314794053308315" at="17,39,18,19" concept="1" />
+      <node id="8355314794053308315" at="20,43,21,23" concept="1" />
+      <node id="8355314794053308315" at="23,39,24,22" concept="1" />
+      <node id="8355314794053308315" at="26,45,27,26" concept="1" />
+      <node id="8355314794053308315" at="29,45,30,25" concept="1" />
+      <node id="8355314794053308315" at="32,50,33,25" concept="1" />
+      <node id="8355314794053308315" at="35,47,36,27" concept="1" />
+      <node id="8355314794053308315" at="38,26,39,15" concept="4" />
+      <node id="8355314794053308315" at="41,30,42,19" concept="4" />
+      <node id="8355314794053308315" at="44,26,45,18" concept="4" />
+      <node id="8355314794053308315" at="47,32,48,22" concept="4" />
+      <node id="8355314794053308315" at="50,32,51,21" concept="4" />
+      <node id="8355314794053308315" at="53,37,54,21" concept="4" />
+      <node id="8355314794053308315" at="56,34,57,23" concept="4" />
+      <node id="8355314794053308315" at="15,0,17,0" concept="0" trace="Ucenik#()V" />
+      <node id="8355314794053308315" at="17,0,20,0" concept="3" trace="setIme#(Ljava/lang/String;)V" />
+      <node id="8355314794053308315" at="20,0,23,0" concept="3" trace="setPrezime#(Ljava/lang/String;)V" />
+      <node id="8355314794053308315" at="23,0,26,0" concept="3" trace="setGodine#(I)V" />
+      <node id="8355314794053308315" at="26,0,29,0" concept="3" trace="setMestoField#(LDataDictionaryNew/sandbox/Mesto;)V" />
+      <node id="8355314794053308315" at="29,0,32,0" concept="3" trace="setAdresaRef#(LDataDictionaryNew/sandbox/Adresa;)V" />
+      <node id="8355314794053308315" at="32,0,35,0" concept="3" trace="setMestoList#(Ljava/util/List;)V" />
+      <node id="8355314794053308315" at="35,0,38,0" concept="3" trace="setAdresaField#(LDataDictionaryNew/sandbox/Adresa;)V" />
+      <node id="8355314794053308315" at="38,0,41,0" concept="3" trace="getIme#()Ljava/lang/String;" />
+      <node id="8355314794053308315" at="41,0,44,0" concept="3" trace="getPrezime#()Ljava/lang/String;" />
+      <node id="8355314794053308315" at="44,0,47,0" concept="3" trace="getGodine#()I" />
+      <node id="8355314794053308315" at="47,0,50,0" concept="3" trace="getMestoField#()LDataDictionaryNew/sandbox/Mesto;" />
+      <node id="8355314794053308315" at="50,0,53,0" concept="3" trace="getAdresaRef#()LDataDictionaryNew/sandbox/Adresa;" />
+      <node id="8355314794053308315" at="53,0,56,0" concept="3" trace="getMestoList#()Ljava/util/List;" />
+      <node id="8355314794053308315" at="56,0,59,0" concept="3" trace="getAdresaField#()LDataDictionaryNew/sandbox/Adresa;" />
+      <scope id="8355314794053308315" at="15,19,15,19" />
+      <scope id="8355314794053308315" at="17,39,18,19" />
+      <scope id="8355314794053308315" at="20,43,21,23" />
+      <scope id="8355314794053308315" at="23,39,24,22" />
+      <scope id="8355314794053308315" at="26,45,27,26" />
+      <scope id="8355314794053308315" at="29,45,30,25" />
+      <scope id="8355314794053308315" at="32,50,33,25" />
+      <scope id="8355314794053308315" at="35,47,36,27" />
+      <scope id="8355314794053308315" at="38,26,39,15" />
+      <scope id="8355314794053308315" at="41,30,42,19" />
+      <scope id="8355314794053308315" at="44,26,45,18" />
+      <scope id="8355314794053308315" at="47,32,48,22" />
+      <scope id="8355314794053308315" at="50,32,51,21" />
+      <scope id="8355314794053308315" at="53,37,54,21" />
+      <scope id="8355314794053308315" at="56,34,57,23" />
+      <scope id="8355314794053308315" at="15,0,17,0" />
+      <scope id="8355314794053308315" at="17,0,20,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="20,0,23,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="23,0,26,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="26,0,29,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="29,0,32,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="32,0,35,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="35,0,38,0">
+        <var name="newValue" id="8355314794053308315" />
+      </scope>
+      <scope id="8355314794053308315" at="38,0,41,0" />
+      <scope id="8355314794053308315" at="41,0,44,0" />
+      <scope id="8355314794053308315" at="44,0,47,0" />
+      <scope id="8355314794053308315" at="47,0,50,0" />
+      <scope id="8355314794053308315" at="50,0,53,0" />
+      <scope id="8355314794053308315" at="53,0,56,0" />
+      <scope id="8355314794053308315" at="56,0,59,0" />
+      <unit id="8355314794053308315" at="7,0,60,0" name="DataDictionaryNew.sandbox.Ucenik" />
+    </file>
+  </root>
+</debug-info>
 
