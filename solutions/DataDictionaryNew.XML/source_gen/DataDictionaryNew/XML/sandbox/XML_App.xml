@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data-dictnary>
-  <Ucesnik>
-    <Ime type="string" length="0" />
-    <ImeRoditelja type="string" length="0" />
-    <Prezime type="string" length="0" />
-  </Ucesnik>
-  <Mesto>
-    <MestoId type="integer" />
-    <Naziv type="string" length="0" />
-  </Mesto>
+  <Radnik>
+    <ime type="string" length="0" />
+    <prezime type="string" length="0" />
+    <datumZaposlenja type="date" />
+  </Radnik>
+  <Stavka>
+    <redniBroj type="integer" />
+    <proizvod type="string" length="0" />
+    <cena type="integer" />
+    <kolicina type="integer" />
+  </Stavka>
+  <Racun>
+    <brojRacuna type="integer" />
+    <datum type="date" />
+    <stavkaList ref="Stavka" />
+    <sequence>
+      <stavkaList ref="Stavka" />
+    </sequence>
+  </Racun>
+  <Profesor>
+    <imeProfesora type="string" length="0" />
+    <prezimeProfesora type="string" length="0" />
+  </Profesor>
+  <Student>
+    <imeStudenta type="string" length="0" />
+    <prezimeStudenta type="string" length="0" />
+    <brojIndeksa type="integer" />
+  </Student>
+  <Predmet>
+    <sifaPredmeta type="string" length="0" />
+    <nazivPredmeta type="string" length="0" />
+  </Predmet>
+  <IspitnaPrijava>
+    <datumPrijave type="date" />
+    <ocena type="integer" />
+    <studentRef ref="Student" />
+    <predmetRef ref="Predmet" />
+    <profesorRef ref="Profesor" />
+  </IspitnaPrijava>
 </data-dictnary>
 
